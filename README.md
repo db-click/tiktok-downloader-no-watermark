@@ -9,24 +9,24 @@ With Download Video Tiktok No Watermark, you don’t need to log in. Just a few 
 
 How does Download Video Tiktok No Watermark work: ?
 
-    Get the Tiktok video link that you want to download (if you don’t know how to get your download link, read the instructions here).
-    Go to ttvideodownload, and paste your download link.
-    Click the Download button.
-    Download video Tiktok to your device
+    * Get the Tiktok video link that you want to download (if you don’t know how to get your download link, read the instructions here).
+    * Go to ttvideodownload, and paste your download link.
+    * Click the Download button.
+    * Download video Tiktok to your device
 
 Features
 
-    Download video tiktok no watermark.
-    Simple and elegant design
-    No login required.
-    Fast download speed.
-    share the downloaded videos with your friends and family.
+    * Download video tiktok no watermark.
+    * Simple and elegant design
+    * No login required.
+    * Fast download speed.
+    * share the downloaded videos with your friends and family.
 
 Disclaimer:
-*Please get the premission from the owner before you repost videos or photos.
+* Please get the premission from the owner before you repost videos or photos.
 * We are not responsible for any intellectual property violation that results from an unauthorized repost of a video or photo.
-*We respect the rights of Video
-*This app is not associated with Video
+* We respect the rights of Video
+* This app is not associated with Video
 
 Need Help?
 Please send us at  tangguov@gmail.com
