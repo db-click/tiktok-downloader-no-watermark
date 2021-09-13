@@ -1,5 +1,5 @@
 # tiktok-downloader-no-watermark
-[TikTok Downloader](https://ttvideodownload.com){:target="_blank"} to download no watermark TikTok videos. Down video tiktok using only your browser. TikTok video downloader without watermark
+<a href="https://ttvideodownload.com" target="_blank">TikTok Downloader</a> to download no watermark TikTok videos. Down video tiktok using only your browser. TikTok video downloader without watermark
 
 Hey, you want to download videos from Tiktok No Watermark ?
 Now it's easy!!
