@@ -1,21 +1,6 @@
 function trackEvent(name, data) {
 
 }
-$(document).ready(function(e) {
-    var counter = 0;
-    debugger;
-    if (window.history && window.history.pushState) {
-        $(window).on('popstate', function () {
-            window.history.pushState('forward', null, '#');
-            window.history.forward(1);
-            //alert("不可回退");
-            location.replace(document.referrer);//刷新
-        });
-    }
-    window.history.pushState('forward', null, '#'); //在IE中必须得有这两行
-    window.history.forward(1);
-});
-
 !(function ($) {
     var form = document.forms.namedItem("formurl");
     var boxDownload = document.getElementById("download-section");

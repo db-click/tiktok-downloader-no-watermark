@@ -6,20 +6,20 @@
     <meta name="revisit-after" content="1 days"/>
     <meta content="width=device-width, initial-scale=1.0, maximum-scale=5, shrink-to-fit=no" name="viewport"/>
     <meta name="theme-color" content="#337efe"/>
-    <meta itemprop="name" content="Down video tiktok, Tiktok downloader no Watermark by ttvideodownload"/>
+    <meta itemprop="name" content="Download video tiktok, tiktok video downloader without watermark ,download tiktok without watermark"/>
     <meta name="description"
-          content="TikTok Downloader to download no watermark TikTok videos. Down video tiktok using only your browser. TikTok video downloader without watermark"/>
+          content="TikTok Downloader to download no watermark TikTok videos. Download video tiktok using only your browser. TikTok video downloader without watermark"/>
     <meta name="author" content="ttvideodownload"/>
     <meta property="og:locale" content="en"/>
     <meta name="google" content="notranslate"/>
     <meta name="twitter:card" content="summary"/>
     <meta name="twitter:title" content="Download video Tiktok, Tiktok downloader no Watermark"/>
     <meta name="twitter:description"
-          content="TikTok Downloader to download no watermark TikTok videos. Down video tiktok using only your browser. TikTok video downloader without watermark"/>
+          content="TikTok Downloader to download no watermark TikTok videos. Download video tiktok using only your browser. TikTok video downloader without watermark"/>
     <meta property="og:title" content="Download video Tiktok, Tiktok downloader no Watermark"/>
     <meta property="og:type" content="article"/>
     <meta property="og:description"
-          content="TikTok Downloader to download no watermark TikTok videos. Down video tiktok using only your browser. TikTok video downloader without watermark"/>
+          content="TikTok Downloader to download no watermark TikTok videos. Download video tiktok using only your browser. TikTok video downloader without watermark"/>
     <meta property="og:site_name" content="Download video Tiktok, Tiktok downloader no Watermark"/>
     <link rel="apple-touch-icon" sizes="180x180" href="img/apple-touch-icon.png?v=1.1">
     <link rel="shortcut icon" href="img/favicon.png?v=1.1">
@@ -36,11 +36,26 @@
         .tt-app{background-color:#ecf0f1;height:auto;padding:8px .75rem;display:grid;grid-template-columns:24px auto 50px}.app-btn-view,.app-close,.app-img{display:flex;align-items:center;text-align:center}.tt-app a{color:#3172e2}.app-info-box{display:grid;grid-template-columns:50px auto}.app-btn-view,.app-close,.app-img{display:flex;align-items:center;text-align:center}.app-info-box .app-info_info{margin-left:8px}.app-info-title{color:#000;font-size:16px;font-weight:300;line-height:1rem}.app-info-dev{color:#6c757d;font-weight:300;font-size:12px;line-height:1rem}.app-info-get{font-size:12px;line-height:1rem;color:#6c757d;font-weight:400}.app-btn-view{justify-content:flex-end}@media (min-width:768px){.tt-app{display:none!important}}.ads-main #closeAd{display:none;margin-top:1.5rem;margin-bottom:2rem}.ads-main.active{position:fixed;top:50%;transform:translateY(-50%);width:100%;height:100%;background-color:#fff;z-index:1000;display:flex;justify-content:center;align-items:center}.ads-main.active #closeAd{display:block}.alert-success{color:#0f5132;background-color:#d1e7dd;border-color:#badbcc;text-align:center}.ads-main .alert{display:none}.ads-main.active .alert{display:block;margin-top:2rem}
     </style>
     <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-207312497-1"></script>
     <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-207312497-1');
+        gtag('event', 'screen_view', {
+            'app_name': 'ttvideodownload',
+            'screen_name': 'Home'
+        });
         function trackEvent(name, data) {
-
+            if (data == '') {
+                gtag('event',name);
+            } else {
+                gtag('event', name, {
+                    'value':data
+                });
+            }
         };
-
     </script>
 <body>
 <header  class="head">
@@ -81,7 +96,7 @@
     <div class="container footerbox">
         <div class="row">
             <div class="col-12">
-                <select class="form-select" aria-label="Select language" onchange="window.location = '/tiktok-downloader-no-watermark/' + this.options[this.selectedIndex].value;">
+                <select class="form-select" aria-label="Select language" onchange="window.location = '/' + this.options[this.selectedIndex].value;">
                     <option selected="">Select language</option>
                     <option value="en">English</option>
                     <option value="id">Bahasa Indonesia</option>
